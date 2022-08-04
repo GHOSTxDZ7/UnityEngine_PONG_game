@@ -49,5 +49,4 @@ public class BallMovement : MonoBehaviour
             hitCounter++;
         }
     }
- 
 }
