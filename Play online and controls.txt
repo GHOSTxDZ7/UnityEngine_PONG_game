@@ -1,0 +1,11 @@
+PLAY ONLINE:-
+link -> 
+
+
+
+CONTROLS :-
+
+Player 1 (at Left) -> move up press   'w'
+		   -> move down press 's'
+Player 2 (at Right) -> move up press   'up'(up arrow)
+		   -> move down press 'down'(down arrow)
